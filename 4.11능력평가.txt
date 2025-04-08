@@ -1,0 +1,9 @@
+SQL활용
+
+테이블 만드는거 - DDL
+
+DML - SELECT, INSERT, DELETE, UPDATE
+
+계정생성
+
+테이블스페이스의 생성
