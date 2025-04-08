@@ -1,9 +1,18 @@
 SQL활용
 
-테이블 만드는거 - DDL
+테이블 만드는거 
+DDL - CREATE, TRUNCATE, DROP
 
 DML - SELECT, INSERT, DELETE, UPDATE
+
+TCL - COMMIT, ROLLBACK
+
+트랜잭션의 특성(원자성, 지속성, 고립성 ..)
 
 계정생성
 
 테이블스페이스의 생성
+
+JOIN
+
+VIEW의 생성
