@@ -1,0 +1,3 @@
+CORS처리 x 
+
+WebMvcConfigurer 구현하여 처리
