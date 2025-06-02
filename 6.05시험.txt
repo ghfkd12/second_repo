@@ -1,0 +1,3 @@
+스마트 문화앱 UI디자인
+스타일 주는법 -> 속성으로 주거나 StyleSheet로 주거나, style-components로 만들기
+요소의 배치 -> Flex사용
